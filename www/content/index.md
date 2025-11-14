@@ -24,10 +24,10 @@ actions:
 ---
 
 #title
-Effortless and Beautiful :br Docs Template.
+欢迎来到我的博客~
 
 #description
-Beautifully designed Nuxt Content template built with shadcn-vue. :br Customizable. Compatible. Open Source.
+这里是中文喵~
 ::
 
 ::div{class="border rounded-lg shadow-md"}
